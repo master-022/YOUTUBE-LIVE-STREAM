@@ -81,9 +81,9 @@
             "url": "https://canlitv.center/cbc-sport"
         },
         {
-            "name": "tv100",
-            "slug": "tv100",
-            "url": ""
+            "name": "ictimai",
+            "slug": "ictimai",
+            "url": "http://213.172.73.133:8081/nimble_live/Ictimai_TV/chunks.m3u8"
         }
     ]
 }
